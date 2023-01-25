@@ -26,6 +26,8 @@ An experienced software engineer in develop Mobile App by implementing clean arc
 
 ### Tech Stack
   <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" /></a>
+   <a href="https://spring.io/projects/spring-boot"><img align="left" alt="Spring" title="Spring" width="21px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" /></a>
+   <a href="https://angular.io/"><img align="left" alt="Angular" title="Angular" width="21px" src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" /></a>
   <br>
   <br>
 
