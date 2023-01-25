@@ -30,6 +30,10 @@ An experienced software engineer in develop Mobile App by implementing clean arc
    <a href="https://angular.io/"><img align="left" alt="Angular" title="Angular" width="21px" src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" /></a>
   <br>
   <br>
+  
+### Other skills
+- UI Design 
+- Graphic Design
 
 
 ### Github Statistic
