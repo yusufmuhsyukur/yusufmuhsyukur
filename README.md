@@ -25,7 +25,7 @@ An experienced software engineer in develop Mobile App by implementing clean arc
 
 
 ### Tech Stack
-  <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://seeklogo.com/images/F/flutter-logo-304BF94F55-seeklogo.com.png" /></a>
+  <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" /></a>
   <br>
   <br>
 
