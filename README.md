@@ -15,6 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+An experienced software engineer in develop Mobile App by implementing clean architecture, TDD, modularization, continuous integration, performance, dan security
+ 
+
+- 🔭 I’m currently working on MNC
+- 💬 Feel free to ask me about mobile development
+- 📫 How to reach me: yusufmuhammadsyukur@gmail.com
+- ⚡ Fun fact: Love Art
+
+
+### Tech Stack
+  <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://seeklogo.com/images/F/flutter-logo-304BF94F55-seeklogo.com.png" /></a>
+  <br>
+  <br>
+
 
 ### Github Statistic
 <p align="left">
